@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirebaseRegistration</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="birthdate">Birthdate (dd/mm/yyy)</string>
+    <string name="gender">Gender</string>
+    <string name="mobile">Mobile</string>
+    <string name="facebook_app_id">5034</string>
+    <string name="fb_login_protocol_scheme">fb9999</string>
+    <string name="facebook_client_token">50344</string>
+</resources>
